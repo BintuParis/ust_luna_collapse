@@ -1,0 +1,14 @@
+# SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Optional: raw data
+data/raw/
+
+# Jupyter checkpoints (sometimes already included)
+.ipynb_checkpoints/
+
+# Environment
+.venv/
+.env
